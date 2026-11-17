@@ -1,0 +1,7 @@
+运行日志.txt
+*.log
+*.pdb
+*.tmp
+.vs/
+bin/
+obj/
